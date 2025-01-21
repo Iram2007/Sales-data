@@ -1,0 +1,24 @@
+Hello 
+
+Good morning.
+
+I want to tell about computer and notepad .
+
+A Computer is an electronic device which is using for eccept , process , store and output information . This information can be anything from text to numbers or image to videos
+
+ COMPONENT OF COMPUTER 
+ 
+*Hardware 
+*Software
+
+NOTEPAD
+
+Notepad is an small and fast notetaking app.
+
+We can write notes easily to use short cut keys. 
+
+Ctrl + C --- COPY 
+Ctrl + v --- PASTE  
+Ctrl + X --- CUT 
+Ctrl + A --- SELECT ALL 
+Ctrl + Z --- UNDO
